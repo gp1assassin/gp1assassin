@@ -10,9 +10,6 @@ the way.
 
 **Currently:** running a local [Hermes](https://github.com/NousResearch/hermes-agent)
 agent setup as a personal dev/ops assistant — repo cleanup, indie SaaS
-research, and day-to-day tooling. [`hermes-agent-backup`](https://github.com/gp1assassin/hermes-agent-backup)
-is a rollback snapshot repo it maintains automatically before every
-self-update, not a project in itself — worth a mention only because it's
-what's public here right now.
+research, and day-to-day tooling. 
 
 More real projects landing here as they ship.
